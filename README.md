@@ -1,11 +1,6 @@
-## My Project
+## Amazon SageMaker Llama2 Prompting Best Practices
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository contains the accompanying notebook and data required to demonstrate prompting best practices with Llama2 using SageMaker Jumpstart.
 
 ## Security
 
