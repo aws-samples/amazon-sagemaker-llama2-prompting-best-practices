@@ -1,6 +1,6 @@
 ## Amazon SageMaker Llama2 Prompting Best Practices
 
-This repository contains the accompanying notebook and data required to demonstrate prompting best practices with Llama2 using SageMaker Jumpstart.
+This repository contains the accompanying notebook and data required to demonstrate prompting best practices with Llama2 using SageMaker Jumpstart. Notebook uses Llama2 Chat 13B paramater model.
 
 ## Security
 
